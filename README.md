@@ -71,7 +71,8 @@ plt.axis('off')
 
 
 ### CANNY EDGE DETECTOR
-![image](https://github.com/user-attachments/assets/fd08e18e-3443-4b12-a4d0-29b00ca95e72)
+![Screenshot 2025-04-11 052920](https://github.com/user-attachments/assets/746f27a7-75ab-4114-b93b-c6242492f713)
+
 
 
 ## Result:
